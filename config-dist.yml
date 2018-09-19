@@ -3,6 +3,8 @@ VISA_URL: 'https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/ab
 
 CHECKSUM: '7b73d2b45d13f688ac0d07bac8bd0fd1'
 
+LOG_FILE: 'app.log'
+
 EMAIL_TO: ""
 EMAIL_FROM: ""
 SEND_GRID_KEY: ""
