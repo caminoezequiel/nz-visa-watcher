@@ -10,6 +10,7 @@ requests = "*"
 "beautifulsoup4" = "*"
 sendgrid = "*"
 pyyaml = "*"
+logging = "*"
 
 [requires]
 python_version = "2.7"
